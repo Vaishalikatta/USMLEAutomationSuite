@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Example" verbose="1" >
+	<listeners>
+	    <listener class-name="com.ascendlearning.automation.ui.listeners.ScreenshotListener" />
+	</listeners>
+
+  	<test name="Sanity Suite 1" >
+    	<classes>
+     		<class name="com.usmle.automation.tests.LogonTest"/>
+    	</classes>
+ 	</test>
+</suite>
