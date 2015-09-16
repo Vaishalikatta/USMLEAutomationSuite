@@ -5,7 +5,7 @@
 	<artifactId>USMLEAutomation</artifactId>
 	<version>v1</version>
 	<name>USMLE Automation</name>
-	<description>Automation tests for checking USMLE funcationality</description>
+	<description>Automation tests for checking USMLE functionality</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
